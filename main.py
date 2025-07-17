@@ -1,6 +1,6 @@
 
 # Auto-generated encrypted script
-# ✅ License Key: A4WZ-5NQY-IKPG
+# ✅ License Key: MUST SUBSCRIBE TO ACCESS THE LICENSE
 
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
